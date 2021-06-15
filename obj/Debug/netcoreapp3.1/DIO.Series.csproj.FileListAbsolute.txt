@@ -1,0 +1,13 @@
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Desktop\Cursos TI\Bootcamp .Net Fundamentals\Lógica de programação essencial\Aula 9\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
